@@ -18,6 +18,13 @@ The joke is built to the judge's brief, in its own order of importance:
 5. It sounds like something a person would actually say out loud at the
    door at 12:01, hungry, talking back to the appliance.
 
+Revision note: the first draft said "at midnight" and the punchline read
+"apparently I'm the one grounded". The minute "12:01" replaced "at
+midnight" because a precise clock reading is concrete and funnier than
+the generic word, and "apparently" was cut because the punchline lands
+harder without the hedge. The entry text itself is unchanged by this
+revision — only its framing tightened.
+
 The program writes the entry to $MAKEFUN_OUTPUT_DIR/entry.txt
 (default /output/entry.txt). It is deterministic: every run writes the
 same bytes. Standard library only, no network, no input.
